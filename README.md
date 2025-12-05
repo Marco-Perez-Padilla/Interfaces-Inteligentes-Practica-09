@@ -15,7 +15,7 @@ Para este ejercicio, en primer lugar se ha realizado un script que recopilase to
 - Funcionamiento erróneo en el editor de Unity en el ordenador: No detecta ningún sensor ni tiene capacidad de simularlos. Se recurre a Unity Remote como solución alternativa.
 - En Unity Remote con un móvil Samsung A70, detecta los siguientes sensores: Acelerómetro, giroscopio, sensor de orientación, sensor de gravedad y sensor de aceleración lineal. Sin embargo, de los 5 sensores detectados, solo el acelerómetro arroja valores, mientras que los demás tienen todos sus campos en 0.
   
-![PNG](Gifs/PNG-E-1.png)
+![PNG](Gifs/PNG-E-0.png)
 
 - En la versión final se crea la APK y se ejecuta en una tablet Lenovo, esta vez no detectando ningún tipo de sensor.
   
